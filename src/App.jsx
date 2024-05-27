@@ -1,11 +1,11 @@
-import Practise from "./Practise";
+import DynamicForm from "./DynamicForm";
 
 
 
- function App() {
+ function App(){
   return (
     <div>
-      <Practise />
+      <DynamicForm />
       
     </div>
   )

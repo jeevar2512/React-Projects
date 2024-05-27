@@ -19,3 +19,9 @@ form{
     flex-direction: column;
     gap: 10px;
 }
+.select-div{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    ;
+}
